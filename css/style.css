@@ -24,6 +24,7 @@ header {
 header h1 {
   margin-left: 40px;
   font-weight: bold;
+  float: left;
 }
 .header {
   padding: 170px 30px 80px;
